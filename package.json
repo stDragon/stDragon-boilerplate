@@ -1,0 +1,21 @@
+{
+  "name": "stDragon-boilerplate",
+  "version": "1.0.0",
+  "description": "Простой сервер для верстки",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "livereload",
+    "sass"
+  ],
+  "author": "s-oleynik",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^2.3.2"
+  }
+}

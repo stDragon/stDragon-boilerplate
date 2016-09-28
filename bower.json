@@ -1,0 +1,26 @@
+{
+  "name": "stDragon-boilerplate",
+  "description": "Простой сервер для верстки",
+  "main": "gulp.js",
+  "authors": [
+    "s-oleynik"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "gulp",
+    "livereload",
+    "sass"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
